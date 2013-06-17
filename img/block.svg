@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="block.svg"
+   inkscape:export-filename="C:\UniServer\www\jsTetris\img\block.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <title
+     id="title3795">Block</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="50"
+     inkscape:cy="40.923077"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="692"
+     inkscape:window-height="407"
+     inkscape:window-x="472"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Block</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 0 0 L 0 100 L 100 100 L 100 0 L 0 0 z M 15.90625 2 L 84.09375 2 C 91.80543 2 98 8.19458 98 15.90625 L 98 84.09375 C 98 91.80535 91.80543 98 84.09375 98 L 15.90625 98 C 8.19457 98 2 91.80535 2 84.09375 L 2 15.90625 C 2 8.19458 8.19457 2 15.90625 2 z "
+       id="rect3004"
+       transform="translate(0,952.36218)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 24.44,966.3622 51.12,0 c 5.78376,0 10.44,4.65623 10.44,10.43999 l 0,20.96999 c -4.410338,4.11542 -9.532758,7.47902 -15.15,9.90002 l 10.62,-21.90002 -25.05,8.18999 -18.99,-18.08998 0,26.19011 -9.48,5.0698 c -5.146728,-2.3725 -9.855675,-5.5394 -13.95,-9.35992 l 0,-20.96999 c 0,-5.78376 4.65624,-10.43999 10.44,-10.43999 z"
+       id="path3013" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 43.46,989.91218 11.4,10.85992 15,-4.88993 -6.87,14.16003 9.3,12.6899 -15.66,-2.0999 -9.27,12.72 -2.79,-15.4499 -15.03,-4.8 13.92,-7.4701 0,-15.72002 z"
+       id="rect2985" />
+    <g
+       id="g3783"
+       transform="matrix(0.7055268,-0.70868324,0.70868324,0.7055268,-699.34057,336.60845)" />
+  </g>
+</svg>
